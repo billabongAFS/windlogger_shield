@@ -53,7 +53,7 @@ F 1 "680" V 2382 2326 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 2305 2325 30  0001 C CNN
 F 3 "~" H 2375 2325 30  0000 C CNN
 F 4 "0.125W" V 2375 2325 60  0001 C CNN "Puissance"
-F 5 "1%" V 2375 2325 60  0001 C CNN "Tolérance"
+F 5 "1%" V 2375 2325 60  0001 C CNN "Tolerance"
 	1    2375 2325
 	1    0    0    -1  
 $EndComp
@@ -66,7 +66,7 @@ F 1 "470k" V 3032 2301 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 2955 2300 30  0001 C CNN
 F 3 "~" H 3025 2300 30  0000 C CNN
 F 4 "0.125W" V 3025 2300 60  0001 C CNN "Puissance"
-F 5 "1%" V 3025 2300 60  0001 C CNN "Tolérance"
+F 5 "1%" V 3025 2300 60  0001 C CNN "Tolerance"
 	1    3025 2300
 	1    0    0    -1  
 $EndComp
@@ -79,7 +79,7 @@ F 1 "470k" V 3032 2901 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 2955 2900 30  0001 C CNN
 F 3 "~" H 3025 2900 30  0000 C CNN
 F 4 "0.125W" V 3025 2900 60  0001 C CNN "Puissance"
-F 5 "1%" V 3025 2900 60  0001 C CNN "Tolérance"
+F 5 "1%" V 3025 2900 60  0001 C CNN "Tolerance"
 	1    3025 2900
 	1    0    0    -1  
 $EndComp
@@ -256,7 +256,7 @@ F 1 "680" V 2357 5201 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 2280 5200 30  0001 C CNN
 F 3 "~" H 2350 5200 30  0000 C CNN
 F 4 "0.125W" V 2350 5200 60  0001 C CNN "Puissance"
-F 5 "1%" V 2350 5200 60  0001 C CNN "Tolérance"
+F 5 "1%" V 2350 5200 60  0001 C CNN "Tolerance"
 	1    2350 5200
 	1    0    0    -1  
 $EndComp
@@ -269,7 +269,7 @@ F 1 "470k" V 3007 5176 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 2930 5175 30  0001 C CNN
 F 3 "~" H 3000 5175 30  0000 C CNN
 F 4 "0.125W" V 3000 5175 60  0001 C CNN "Puissance"
-F 5 "1%" V 3000 5175 60  0001 C CNN "Tolérance"
+F 5 "1%" V 3000 5175 60  0001 C CNN "Tolerance"
 	1    3000 5175
 	1    0    0    -1  
 $EndComp
@@ -282,7 +282,7 @@ F 1 "470k" V 3007 5776 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 2930 5775 30  0001 C CNN
 F 3 "~" H 3000 5775 30  0000 C CNN
 F 4 "0.125W" V 3000 5775 60  0001 C CNN "Puissance"
-F 5 "1%" V 3000 5775 60  0001 C CNN "Tolérance"
+F 5 "1%" V 3000 5775 60  0001 C CNN "Tolerance"
 	1    3000 5775
 	1    0    0    -1  
 $EndComp
@@ -443,7 +443,7 @@ F 1 "680" V 7457 2326 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 7380 2325 30  0001 C CNN
 F 3 "~" H 7450 2325 30  0000 C CNN
 F 4 "0.125W" V 7450 2325 60  0001 C CNN "Puissance"
-F 5 "1%" V 7450 2325 60  0001 C CNN "Tolérance"
+F 5 "1%" V 7450 2325 60  0001 C CNN "Tolerance"
 	1    7450 2325
 	1    0    0    -1  
 $EndComp
@@ -456,7 +456,7 @@ F 1 "470k" V 8107 2301 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 8030 2300 30  0001 C CNN
 F 3 "~" H 8100 2300 30  0000 C CNN
 F 4 "0.125W" V 8100 2300 60  0001 C CNN "Puissance"
-F 5 "1%" V 8100 2300 60  0001 C CNN "Tolérance"
+F 5 "1%" V 8100 2300 60  0001 C CNN "Tolerance"
 	1    8100 2300
 	1    0    0    -1  
 $EndComp
@@ -469,7 +469,7 @@ F 1 "470k" V 8107 2901 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 8030 2900 30  0001 C CNN
 F 3 "~" H 8100 2900 30  0000 C CNN
 F 4 "0.125W" V 8100 2900 60  0001 C CNN "Puissance"
-F 5 "1%" V 8100 2900 60  0001 C CNN "Tolérance"
+F 5 "1%" V 8100 2900 60  0001 C CNN "Tolerance"
 	1    8100 2900
 	1    0    0    -1  
 $EndComp
@@ -630,7 +630,7 @@ F 1 "680" V 7382 5176 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 7305 5175 30  0001 C CNN
 F 3 "~" H 7375 5175 30  0000 C CNN
 F 4 "0.125W" V 7375 5175 60  0001 C CNN "Puissance"
-F 5 "1%" V 7375 5175 60  0001 C CNN "Tolérance"
+F 5 "1%" V 7375 5175 60  0001 C CNN "Tolerance"
 	1    7375 5175
 	1    0    0    -1  
 $EndComp
@@ -643,7 +643,7 @@ F 1 "470k" V 8032 5151 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 7955 5150 30  0001 C CNN
 F 3 "~" H 8025 5150 30  0000 C CNN
 F 4 "0.125W" V 8025 5150 60  0001 C CNN "Puissance"
-F 5 "1%" V 8025 5150 60  0001 C CNN "Tolérance"
+F 5 "1%" V 8025 5150 60  0001 C CNN "Tolerance"
 	1    8025 5150
 	1    0    0    -1  
 $EndComp
@@ -656,7 +656,7 @@ F 1 "470k" V 8032 5751 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 7955 5750 30  0001 C CNN
 F 3 "~" H 8025 5750 30  0000 C CNN
 F 4 "0.125W" V 8025 5750 60  0001 C CNN "Puissance"
-F 5 "1%" V 8025 5750 60  0001 C CNN "Tolérance"
+F 5 "1%" V 8025 5750 60  0001 C CNN "Tolerance"
 	1    8025 5750
 	1    0    0    -1  
 $EndComp

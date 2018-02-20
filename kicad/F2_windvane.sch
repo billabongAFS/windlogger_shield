@@ -53,7 +53,7 @@ F 1 "100" V 4057 2551 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 3980 2550 30  0001 C CNN
 F 3 "~" H 4050 2550 30  0000 C CNN
 F 4 "0.125W" V 4050 2550 60  0001 C CNN "Puissance"
-F 5 "1%" V 4050 2550 60  0001 C CNN "Tolérance"
+F 5 "1%" V 4050 2550 60  0001 C CNN "Tolerance"
 	1    4050 2550
 	1    0    0    -1  
 $EndComp
@@ -96,7 +96,7 @@ F 1 "100k" V 5157 3301 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 5080 3300 30  0001 C CNN
 F 3 "~" H 5150 3300 30  0000 C CNN
 F 4 "0.125W" V 5150 3300 60  0001 C CNN "Puissance"
-F 5 "1%" V 5150 3300 60  0001 C CNN "Tolérance"
+F 5 "1%" V 5150 3300 60  0001 C CNN "Tolerance"
 	1    5150 3300
 	0    -1   -1   0   
 $EndComp

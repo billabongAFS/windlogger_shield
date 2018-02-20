@@ -53,7 +53,7 @@ F 1 "470k" V 7357 4551 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 7280 4550 30  0001 C CNN
 F 3 "~" H 7350 4550 30  0000 C CNN
 F 4 "0.125W" V 7350 4550 60  0001 C CNN "Puissance"
-F 5 "1%" V 7350 4550 60  0001 C CNN "Tolérance"
+F 5 "1%" V 7350 4550 60  0001 C CNN "Tolerance"
 	1    7350 4550
 	1    0    0    -1  
 $EndComp
@@ -117,7 +117,7 @@ F 1 "150k" V 7507 3401 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 7430 3400 30  0001 C CNN
 F 3 "~" H 7500 3400 30  0000 C CNN
 F 4 "0.125W" V 7500 3400 60  0001 C CNN "Puissance"
-F 5 "1%" V 7500 3400 60  0001 C CNN "Tolérance"
+F 5 "1%" V 7500 3400 60  0001 C CNN "Tolerance"
 	1    7500 3400
 	1    0    0    -1  
 $EndComp
@@ -185,7 +185,7 @@ F 1 "56k" V 1832 4326 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 1755 4325 30  0001 C CNN
 F 3 "~" H 1825 4325 30  0000 C CNN
 F 4 "0.125W" V 1825 4325 60  0001 C CNN "Puissance"
-F 5 "1%" V 1825 4325 60  0001 C CNN "Tolérance"
+F 5 "1%" V 1825 4325 60  0001 C CNN "Tolerance"
 	1    1825 4325
 	1    0    0    -1  
 $EndComp
@@ -222,7 +222,7 @@ F 1 "300k" V 1832 3376 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 1755 3375 30  0001 C CNN
 F 3 "~" H 1825 3375 30  0000 C CNN
 F 4 "0.125W" V 1825 3375 60  0001 C CNN "Puissance"
-F 5 "1%" V 1825 3375 60  0001 C CNN "Tolérance"
+F 5 "1%" V 1825 3375 60  0001 C CNN "Tolerance"
 	1    1825 3375
 	1    0    0    -1  
 $EndComp
@@ -417,7 +417,7 @@ F 1 "20k" V 7507 3951 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 7430 3950 30  0001 C CNN
 F 3 "~" H 7500 3950 30  0000 C CNN
 F 4 "0.125W" V 7500 3950 60  0001 C CNN "Puissance"
-F 5 "1%" V 7500 3950 60  0001 C CNN "Tolérance"
+F 5 "1%" V 7500 3950 60  0001 C CNN "Tolerance"
 	1    7500 3950
 	1    0    0    -1  
 $EndComp
@@ -446,7 +446,7 @@ F 1 "470k" V 7607 4551 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 7530 4550 30  0001 C CNN
 F 3 "~" H 7600 4550 30  0000 C CNN
 F 4 "0.125W" V 7600 4550 60  0001 C CNN "Puissance"
-F 5 "1%" V 7600 4550 60  0001 C CNN "Tolérance"
+F 5 "1%" V 7600 4550 60  0001 C CNN "Tolerance"
 	1    7600 4550
 	1    0    0    -1  
 $EndComp

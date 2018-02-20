@@ -557,7 +557,7 @@ F 1 "10k" V 3257 7151 40  0000 C CNN
 F 2 "Discret:R4-LARGE_PADS" V 3180 7150 30  0001 C CNN
 F 3 "~" H 3250 7150 30  0000 C CNN
 F 4 "0.125W" V 3250 7150 60  0001 C CNN "Puissance"
-F 5 "1%" V 3250 7150 60  0001 C CNN "Tolérance"
+F 5 "1%" V 3250 7150 60  0001 C CNN "Tolerance"
 	1    3250 7150
 	0    1    1    0   
 $EndComp
